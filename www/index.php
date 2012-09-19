@@ -3,7 +3,7 @@
 	projectname::main();
 	
 	$title = "this is the title";
-	$body = "this is the body";
+	$body = ";cxkvhbjk";
 	
 	$input = array('title' => $title, 'content' => $body);
 	
